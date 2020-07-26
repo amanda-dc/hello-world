@@ -1,2 +1,2 @@
 # hello-world
-First repository
+Amanda's first repository
